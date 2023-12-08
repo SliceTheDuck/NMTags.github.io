@@ -12,7 +12,7 @@ body {
   }
   
   .background-image {
-    background: url('AnimeSchrein1_AI.png') center/cover no-repeat;
+    background: url('AnimeSchrein1_AI.png') 50% 60%/cover no-repeat;
     height: 100%;
     position: relative;
   }
