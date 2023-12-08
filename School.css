@@ -12,7 +12,7 @@ body {
   }
   
   .background-image {
-    background: url('AnimeTrain1_AI.png') center/cover no-repeat;
+    background: url('AnimeTrain1_AI.png') top/cover no-repeat;
     height: 100%;
     position: relative;
   }
